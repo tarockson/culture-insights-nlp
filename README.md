@@ -55,10 +55,7 @@ Simply click on any `.ipynb` file to view the analysis.
 
 4. Open notebooks in order: 01 → 02 → 03 → 04
 
-5. View dashboard:
-```bash
-   # Open dashboard/index.html in your web browser
-```
+5. View dashboard: [Retention Analytics project](https://tarockson.github.io/employee-retention-analytics/)
 
 ### Data
 - **Survey Comments**: 3,100+ employee comments (2024-2025)
