@@ -57,7 +57,7 @@ Simply click on any `.ipynb` file to view the analysis.
 
 5. View dashboard:
 ```bash
-   # Open dashboard/dashboard.html in your web browser
+   # Open dashboard/index.html in your web browser
 ```
 
 ### Data
@@ -108,4 +108,4 @@ MIT License - See LICENSE file for details
 ## 📊 Interactive Dashboard
 
 View the combined interactive dashboard in the 
-[Retention Analytics project](../employee-retention-analytics/dashboard/dashboard.html)
+[Retention Analytics project](https://tarockson.github.io/employee-retention-analytics/)
