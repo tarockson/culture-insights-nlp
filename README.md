@@ -96,7 +96,7 @@ Simply click on any `.ipynb` file to view the analysis.
 ### Notes
 - Data has been anonymized to protect the organization
 - Analysis demonstrates end-to-end NLP workflow
-- For detailed methodology, findings, and recommendations, see `CASE_STUDY.md`
+- For detailed methodology, findings, and recommendations, see `[CASE_STUDY.md](https://github.com/tarockson/culture-insights-nlp/blob/main/case_study/CASE_STUDY.md)`
 
 ## 📊 Interactive Dashboard
 
