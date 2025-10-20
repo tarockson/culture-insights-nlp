@@ -27,7 +27,7 @@ not a compensation problem.
 - `02_sentiment_analysis.ipynb` - VADER + TextBlob consensus approach
 - `03_topic_modeling.ipynb` - TF-IDF vectorization and K-Means clustering
 - `04_psychological_safety.ipynb` - Custom psychological safety index
-- `dashboard.html` - Interactive sentiment and topic visualization
+- `index.html` - Interactive sentiment and topic visualization
 - `sample_comments_anonymized.csv` - Example comment dataset
 - `CASE_STUDY.md` - Detailed methodology and findings
 
