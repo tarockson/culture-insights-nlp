@@ -98,6 +98,11 @@ Simply click on any `.ipynb` file to view the analysis.
 - Analysis demonstrates end-to-end NLP workflow
 - For detailed methodology, findings, and recommendations, see `CASE_STUDY.md`
 
+## 📊 Interactive Dashboard
+
+View the combined interactive dashboard in the 
+[Retention Analytics project](https://tarockson.github.io/employee-retention-analytics/)
+
 ### Questions?
 Feel free to open an issue or contact me.
 
@@ -105,7 +110,4 @@ Feel free to open an issue or contact me.
 MIT License - See LICENSE file for details
 
 
-## 📊 Interactive Dashboard
 
-View the combined interactive dashboard in the 
-[Retention Analytics project](https://tarockson.github.io/employee-retention-analytics/)
