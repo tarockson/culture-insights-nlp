@@ -1,0 +1,21 @@
+﻿Comment_ID,Year,Department_Category,Comment,Sentiment_Label,Sentiment_Score,Topic_ID,Psych_Safety_Index
+COM_001,2024,Frontline_Program,Great team support and mentorship,Positive,0.95,0,0.45
+COM_002,2025,Administrative_Support,Feeling overwhelmed with workload,Negative,-0.72,2,-0.35
+COM_003,2024,Frontline_Program,Leadership doesn't listen to feedback,Negative,-0.68,1,-0.25
+COM_004,2025,Administrative_Support,Strong management and clear direction,Positive,0.88,3,0.55
+COM_005,2024,Frontline_Program,Love helping people but hours are unsustainable,Negative,-0.65,2,-0.20
+COM_006,2025,Administrative_Support,Career growth opportunities available,Positive,0.82,4,0.40
+COM_007,2024,Frontline_Program,Supervisor makes me feel valued,Positive,0.91,3,0.60
+COM_008,2025,Administrative_Support,Need better communication from leadership,Negative,-0.58,1,-0.15
+COM_009,2024,Frontline_Program,Caseload is too high to do quality work,Negative,-0.75,2,-0.40
+COM_010,2025,Administrative_Support,Great place to work with supportive culture,Positive,0.89,5,0.65
+COM_011,2024,Frontline_Program,No clear path for advancement,Negative,-0.62,4,-0.18
+COM_012,2025,Administrative_Support,Fair compensation and good benefits,Positive,0.72,6,0.35
+COM_013,2024,Frontline_Program,Feel like part of a real team,Positive,0.87,5,0.52
+COM_014,2025,Administrative_Support,Management doesn't support work-life balance,Negative,-0.68,2,-0.30
+COM_015,2024,Frontline_Program,Not enough support for struggling employees,Negative,-0.70,1,-0.28
+COM_016,2025,Administrative_Support,Respect and trust from leadership,Positive,0.93,3,0.68
+COM_017,2024,Frontline_Program,Burnout is real here,Negative,-0.78,2,-0.45
+COM_018,2025,Administrative_Support,Diverse team with different perspectives,Positive,0.85,5,0.48
+COM_019,2024,Frontline_Program,Supervisor genuinely cares about development,Positive,0.90,3,0.58
+COM_020,2025,Administrative_Support,"Could use more recognition for work,",Negative,-0.52,6,-0.10
